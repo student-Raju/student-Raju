@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-sooty-six-31.vercel.app](my-portfolio-sooty-six-31.vercel.app)
+- 👨‍💻 All of my projects are available at https://my-portfolio-sooty-six-31.vercel.app/
 
 - 💬 Ask me about **react,Next**
 
